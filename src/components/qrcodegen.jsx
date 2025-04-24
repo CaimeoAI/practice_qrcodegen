@@ -1,4 +1,4 @@
-
+import "../styling/qrcodegen.css"
 
 export default function QRCodeGenerator() {
 
